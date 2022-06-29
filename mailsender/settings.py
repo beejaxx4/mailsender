@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-1ba*3@4f^mgvinj3%_(0*_vcrjo-3jv5l2gs)i_#9^n6h^79i@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://the-mail-sender.herokuapp.com']
 
 
 # Application definition
